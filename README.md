@@ -42,34 +42,9 @@ The learning journey includes:
 * Amazon EKS Networking
 * Real-world AWS Networking Architectures
 
-## 🛠️ What You'll Find
 
-Throughout this repository, I will be documenting:
 
-* Detailed theory notes
-* Hands-on labs
-* Architecture diagrams
-* AWS CLI commands
-* Best practices
-* Interview notes
-* Common troubleshooting scenarios
-* Practice tasks and challenges
-* Real-world use cases
-* Personal observations and learnings
 
-## 💡 Learning Approach
-
-Each topic is studied with a practical mindset by following a simple progression:
-
-1. Learn the core networking concept.
-2. Understand how AWS implements it.
-3. Perform hands-on practice.
-4. Document observations and key learnings.
-5. Explore real-world use cases.
-6. Solve troubleshooting scenarios.
-7. Review interview-focused questions.
-
-This approach helps bridge the gap between theory and practical implementation.
 
 ## 🚀 Repository Goals
 
